@@ -25,10 +25,10 @@ h1{
     transition: transform 0.5s;
 }
 
-#btn-container button:hover{
+/* #btn-container button:hover{
     background-color: aquamarine;
     transform:scaleY(2);
-}
+} */
 #child-container div{
     width: 100px;
     height: 100px;
