@@ -32,8 +32,13 @@ h1{
 #child-container div{
     width: 100px;
     height: 100px;
-    margin: 10px;
+    margin: 5px;
     background-color: aqua;
+    text-align: center;
+    justify-content: center;
+    line-height: 100px;
+    font-size: xx-large;
+    font-weight: 700;
 }
 #child-container{
     display: flex;
